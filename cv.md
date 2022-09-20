@@ -1,4 +1,4 @@
-**# __TSUDZILA ALIAKSANDR__
+# __TSUDZILA ALIAKSANDR__
 
 ## Frontend Developer
 
@@ -58,4 +58,4 @@ function testArray(a, b) {
 * English (A2 - ability to read and understand technical documentation)
 * Polish(A1)
 * Russian (Native)
-**
+
