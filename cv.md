@@ -1,6 +1,6 @@
 # __TSUDZILA ALIAKSANDR__
 
-## Frontend Developer
+## QA Engineer/Frontend
 
 ## Contacts
 
@@ -17,14 +17,14 @@
 * Software testing basics
 * Enhanced responsibility
 * Good communication skills
-* HTML, CSS, JS basics, PHP basics, Figma
+* HTML, CSS, JS & PHP basics, Figma, Markdown
 * SQL(MySQL - select, join), Databases basics
-* GiTBash, VSCode, Postman
+* GiTBash, VSCode, Postman, AndroidStudio, Charles basics 
+* OS Windows, Linux basics
 
 ## Code example:
 
 ```javascript
-
 function testArray(a, b) {
     var sum = 0;
     for(var i = 0; i < a.length; i++) {
@@ -49,9 +49,25 @@ function testArray(a, b) {
     * Interactive SQL simulator
     * Jira: task management on electronic whiteboards
 
-* Student of QA course by Vadim Ksendzow
+* QA course by Vadim Ksendzow
 
-* RS School «JavaScript/Front-end» now learning
+* Read:
+    * Svyatoslav Kulikov:
+        1. "Software testing";
+        2. "Relational databases".
+
+    * Roman Savin "dot COM testing."
+
+    * "Certified tester. Basic level training program". (RSTQB).
+
+    * Lee Copland "A Practitioner's Guide to Software Test Design".
+
+## Experience:
+
+* Сonstruction foreman/Warsaw, Poland/BelBud LLC/Feb2022-Pres.
+* Specialist in flame retardant metal processing/Minsk, Belarus/PTK-Zashchita LLC/Nov2020-Jan2022.
+* Chief Electrical Engineer/Minsk, Belarus/Energopolus LLC/Oct2019-Nov2020.
+* Deputy Director/Minsk, Belarus/RM-Grifrestoration LLC/Apr2013-Oct2019.
 
 ## Languages:
 
